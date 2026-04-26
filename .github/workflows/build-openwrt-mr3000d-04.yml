@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder mr3000d-04
+name: immortalwrt Builder mr3000d-04
 
 on:
   repository_dispatch:
