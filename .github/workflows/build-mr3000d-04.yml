@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: immortalwrt Builder mr3000d-04
+name: Builder mr3000d-04
 
 on:
   repository_dispatch:
@@ -20,6 +20,7 @@ on:
         description: 'SSH connection to Actions'
         required: true
         default: 'false'
+        type: boolean
 
 env:
   REPO_URL: https://github.com/marchmin/immortalwrt
