@@ -23,10 +23,10 @@ on:
         type: boolean
 
 env:
-  REPO_URL: https://github.com/marchmin/immortalwrt
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/marchmin/immortalwrt-ipq50xx
+  REPO_BRANCH: openwrt-21.02
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: .i_mr3004d-04_config
+  CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: true
