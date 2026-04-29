@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt qsdk5.4
+name: Build OpenWrt ci
 
 on:
   repository_dispatch:
