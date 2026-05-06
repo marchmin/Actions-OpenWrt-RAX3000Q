@@ -23,8 +23,8 @@ on:
         type: boolean
 
 env:
-  REPO_URL: https://github.com/VIKINGYFY/immortalwrt
-  REPO_BRANCH: main
+  REPO_URL: https://github.com/hzyitc/openwrt-redmi-ax3000
+  REPO_BRANCH: ipq50xx-mainline-kernel-5.4-openwrt-21.02-qsdk-wifi-rebase
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .ax6000.txt
   DIY_P1_SH: diy-part1.sh
