@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Builder mr3000d-04 6.x
+name: Builder ipq5018 6.x
 
 on:
   repository_dispatch:
