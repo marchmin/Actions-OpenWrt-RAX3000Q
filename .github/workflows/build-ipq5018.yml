@@ -23,7 +23,7 @@ on:
         type: boolean
 
 env:
-  REPO_URL: https://github.com/qosmio/openwrt-ipq
+  REPO_URL: https://github.com/marchmin/openwrt-ipq-qosmio  #https://github.com/qosmio/openwrt-ipq  
   REPO_BRANCH: main-nss
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ipq5018.config
