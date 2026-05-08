@@ -24,7 +24,7 @@ on:
 
 env:
   REPO_URL: https://github.com/marchmin/openwrt-ipq-qosmio 
-  REPO_BRANCH: 25.12-nss
+  REPO_BRANCH: mian-nss
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .mx2000.config
   DIY_P1_SH: diy-part1.sh
