@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Builder libwrt mr3000d-ci 6.x
+name: Builder libwrt ipq5018 6.x
 
 on:
   repository_dispatch:
@@ -26,7 +26,7 @@ env:
   REPO_URL: https://github.com/marchmin/openwrt-6.x-LiBwrt
   REPO_BRANCH: main-nss
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: .ipq5018.config
+  CONFIG_FILE: libwrt_ipq5018.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: true
