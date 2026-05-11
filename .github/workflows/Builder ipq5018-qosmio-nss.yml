@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Builder ipq5018-nss 6.x
+name: Builder ipq5018-qosmio-nss 6.x
 
 on:
   repository_dispatch:
