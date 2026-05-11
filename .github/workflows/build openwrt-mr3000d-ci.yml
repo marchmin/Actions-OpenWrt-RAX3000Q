@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Builder mr3000d-ci 6.x
+name: Builder openwrt mr3000d-ci 6.x
 
 on:
   repository_dispatch:
