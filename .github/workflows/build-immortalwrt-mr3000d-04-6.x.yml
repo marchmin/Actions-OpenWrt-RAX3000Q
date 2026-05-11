@@ -23,8 +23,8 @@ on:
         type: boolean
 
 env:
-  REPO_URL: https://github.com/marchmin/immortalwrt-20260511
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/marchmin/openwrt-6.x-LiBwrt/ #https://github.com/marchmin/immortalwrt-20260511
+  REPO_BRANCH: main-nss
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .i_mr3004d-04_config
   DIY_P1_SH: diy-part1.sh
