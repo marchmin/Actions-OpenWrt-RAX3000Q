@@ -24,7 +24,7 @@ on:
 
 env:
   REPO_URL: https://github.com/marchmin/openwrt-AgustinLorenzo
-  REPO_BRANCH: main-nss
+  REPO_BRANCH: main_nss
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: agu-config
   DIY_P1_SH: diy-part1.sh
