@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Builder libwrt ipq5018 6.x
+name: Builder AgustinLorenzo ipq5018 6.x
 
 on:
   repository_dispatch:
