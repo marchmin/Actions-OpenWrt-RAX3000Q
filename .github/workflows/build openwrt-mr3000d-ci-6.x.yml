@@ -23,7 +23,7 @@ on:
         type: boolean
 
 env:
-  REPO_URL: https://github.com/marchmin/immortalwrt-zcop #https://github.com/marchmin/immortalwrt
+  REPO_URL: https://github.com/marchmin/immortalwrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .mr3000d-ci_config
